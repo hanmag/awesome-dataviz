@@ -20,8 +20,7 @@ A curated list of awesome data visualizations demo. Inspired by [awesome-dataviz
 - [Leaflet](http://leafletjs.com/)
 - [Mapbox](https://www.mapbox.com/maps)
 - [Uber](http://uber.github.io/deck.gl/#/)
-- [Maptalks.org](http://www.maptalks.org/)
-- [Maptalks - github](https://github.com/maptalks)
+- [Maptalks](http://www.maptalks.org/)
 - [D3](https://d3js.org/)
 - [Three](https://threejs.org/)
 - [Cesium](https://cesiumjs.org/)
@@ -46,3 +45,7 @@ A curated list of awesome data visualizations demo. Inspired by [awesome-dataviz
 - [Information is Beautiful](http://www.informationisbeautiful.net/)
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/) - A collection of data visualization methods, with pros and cons.
 - [Visual Complexity](http://www.visualcomplexity.com) - A site about the visualization of complex networks.
+
+### 六、数据可视化工具库（开源）
+
+- [maptastic](https://github.com/glowbox/maptasticjs) - Javascript/CSS projection mapping utility.
