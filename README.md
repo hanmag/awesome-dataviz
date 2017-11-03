@@ -49,3 +49,8 @@ A curated list of awesome data visualizations demo. Inspired by [awesome-dataviz
 ### 六、数据可视化工具库（开源）
 
 - [maptastic](https://github.com/glowbox/maptasticjs) - Javascript/CSS projection mapping utility.
+
+### 七、数据可视化实例（酷炫）
+
+- [warof1996](http://www.warof1996.com/)
+- [Royal Constellations](http://www.datasketch.es/october/code/nadieh/) - A 1000 years of ancestral connections in the European royal families.
