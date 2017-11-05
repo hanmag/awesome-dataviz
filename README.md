@@ -20,7 +20,7 @@ A curated list of awesome data visualizations demo. Inspired by [awesome-dataviz
 - [Leaflet](http://leafletjs.com/)
 - [Mapbox](https://www.mapbox.com/maps)
 - [Uber](http://uber.github.io/deck.gl/#/)
-- [Maptalks](http://www.maptalks.org/)
+- [Maptalks](https://www.maptalks.org/)
 - [D3](https://d3js.org/)
 - [Three](https://threejs.org/)
 - [Cesium](https://cesiumjs.org/)
