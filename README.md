@@ -29,17 +29,17 @@ A curated list of awesome data visualizations demo. Inspired by [awesome-dataviz
 - [echarts](https://github.com/ecomfe/echarts)
 - [Embedding Projector - Google高维数据可视化](http://projector.tensorflow.org/)
 
-### 三、国内数据可视化实验室（牛逼的）
+### 三、国内数据可视化实验室
 
 - [北大可视分析](http://vis.pku.edu.cn/wiki/)、[教授：袁晓如](http://vis.pku.edu.cn/yuanxiaoru/)
 - [浙江大学可视分析小组博客](http://www.cad.zju.edu.cn/home/vagblog/)、 [教授：陈为](http://www.cad.zju.edu.cn/home/chenwei/index_cn.html)
 
-### 四、国外数据可视化实验室（牛逼的）
+### 四、国外数据可视化实验室
 
 - [麻省理工大学虚拟现实实验室](http://senseable.mit.edu/)
 - [哈佛大学数据可视化案例](http://globe.cid.harvard.edu/?mode=productspace3D&id=PT)
 
-### 五、数据可视化网站（收藏）
+### 五、数据可视化网站
 
 - [FlowingData](http://flowingdata.com/)
 - [Information is Beautiful](http://www.informationisbeautiful.net/)
@@ -50,7 +50,7 @@ A curated list of awesome data visualizations demo. Inspired by [awesome-dataviz
 
 - [maptastic](https://github.com/glowbox/maptasticjs) - Javascript/CSS projection mapping utility.
 
-### 七、数据可视化实例（酷炫）
+### 七、数据可视化实例
 
 - [warof1996](http://www.warof1996.com/)
 - [Royal Constellations](http://www.datasketch.es/october/code/nadieh/) - A 1000 years of ancestral connections in the European royal families.
