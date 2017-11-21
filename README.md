@@ -56,3 +56,5 @@ A curated list of awesome data visualizations demo. Inspired by [awesome-dataviz
 - [Royal Constellations](http://www.datasketch.es/october/code/nadieh/) - A 1000 years of ancestral connections in the European royal families.
 - [CNN ECOSPHERE](http://cnn-ecosphere.com/) - Introduction: [CNN ECOSPHERE: Digital garden visualizes live discussion at Rio+20](http://edition.cnn.com/2012/06/15/tech/cnn-ecosphere-rio/index.html)
 - [Talent Lab](https://talent-lab.com/mp/) - 可视化分析.
+- [AUTOPILOT TECHNOLOGY](http://www.acsl.co.jp/en_special.php) - MADE IN JAPAN DRONE.
+- [100,000 Stars](http://stars.chromeexperiments.com/) - An interactive visualization of the stellar neighborhood created for the Google Chrome web browser.
