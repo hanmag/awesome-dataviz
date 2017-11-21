@@ -29,17 +29,17 @@ A curated list of awesome data visualizations demo. Inspired by [awesome-dataviz
 - [echarts](https://github.com/ecomfe/echarts)
 - [Embedding Projector - Google高维数据可视化](http://projector.tensorflow.org/)
 
-### 三、国内数据可视化实验室（牛逼的）
+### 三、国内数据可视化实验室
 
 - [北大可视分析](http://vis.pku.edu.cn/wiki/)、[教授：袁晓如](http://vis.pku.edu.cn/yuanxiaoru/)
 - [浙江大学可视分析小组博客](http://www.cad.zju.edu.cn/home/vagblog/)、 [教授：陈为](http://www.cad.zju.edu.cn/home/chenwei/index_cn.html)
 
-### 四、国外数据可视化实验室（牛逼的）
+### 四、国外数据可视化实验室
 
 - [麻省理工大学虚拟现实实验室](http://senseable.mit.edu/)
 - [哈佛大学数据可视化案例](http://globe.cid.harvard.edu/?mode=productspace3D&id=PT)
 
-### 五、数据可视化网站（收藏）
+### 五、数据可视化网站
 
 - [FlowingData](http://flowingdata.com/)
 - [Information is Beautiful](http://www.informationisbeautiful.net/)
@@ -50,11 +50,14 @@ A curated list of awesome data visualizations demo. Inspired by [awesome-dataviz
 
 - [maptastic](https://github.com/glowbox/maptasticjs) - Javascript/CSS projection mapping utility.
 
-### 七、数据可视化实例（酷炫）
+### 七、数据可视化实例
 
 - [warof1996](http://www.warof1996.com/)
 - [Royal Constellations](http://www.datasketch.es/october/code/nadieh/) - A 1000 years of ancestral connections in the European royal families.
 - [CNN ECOSPHERE](http://cnn-ecosphere.com/) - Introduction: [CNN ECOSPHERE: Digital garden visualizes live discussion at Rio+20](http://edition.cnn.com/2012/06/15/tech/cnn-ecosphere-rio/index.html)
 - [Talent Lab](https://talent-lab.com/mp/) - 可视化分析.
+<<<<<<< HEAD
 - [AUTOPILOT TECHNOLOGY](http://www.acsl.co.jp/en_special.php) - MADE IN JAPAN DRONE.
 - [100,000 Stars](http://stars.chromeexperiments.com/) - An interactive visualization of the stellar neighborhood created for the Google Chrome web browser.
+=======
+>>>>>>> f5cd423f21358eda815cba26e7e464e902f47831
